@@ -43,8 +43,8 @@ To write a program to predict the price of cars using a multiple linear regressi
 ```
 /*
 Program to implement the multiple linear regression model for predicting car prices with cross-validation.
-Developed by: GUGHAN S
-RegisterNumber: 212223240043
+Developed by: Aaliya Fathima
+RegisterNumber: 212223230001
 */
 # Importing necessary libraries
 import pandas as pd
